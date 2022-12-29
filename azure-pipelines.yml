@@ -21,5 +21,5 @@ steps:
 
 
 - script: |
-    npm run build
-  displayName: 'npm build'
+    npm run start
+  displayName: 'npm start'
